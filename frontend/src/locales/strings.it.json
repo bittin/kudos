@@ -7,20 +7,21 @@
         "admin": "Admin",
         "give_kudos": "Invia Kudos",
         "logout": "Esci",
-        "login": "Accedi"
+        "login": "Accedi",
+        "my_profile": "Il mio profilo"
     },
     "home": {
         "recent_activity": "Attività recenti",
         "latest_kudos": "Ultimi Kudos",
-        "live_stream_hint": "Streaming live disponibile su",
-        "no_kudos": "È tutto tranquillo nella Terra di Geeko… manda qualche Kudos!",
+        "live_stream_hint": "Streaming live in formato machine-friendly disponibile su",
+        "no_kudos": "È tutto tranquillo nella Terra di Geeko… manda qualche kudos!",
         "view_all_kudos": "Visualizza tutti i Kudos",
         "recent_badges": "Distintivi ottenuti di recente",
         "badges_hint": "Distintivi ottenuti dai contributori openSUSE negli ultimi 30 giorni.",
         "earned_by": "ottenuto da",
-        "no_badges": "Nessun distintivo recente — continua a diffondere Kudos!",
+        "no_badges": "Nessun distintivo recente — continua a diffondere kudos!",
         "view_all_badges": "Visualizza tutti i distintivi",
-        "top_geekos": "Top Geeko degli ultimi 30 giorni:"
+        "top_geekos": "Più riconosciuti negli ultimi 30 giorni:"
     },
     "badges": {
         "title": "Distintivi openSUSE",
@@ -51,7 +52,7 @@
         },
         "gave-1-kudos": {
             "title": "Primo Kudos inviato",
-            "description": "Hai condiviso il tuo primo Kudos."
+            "description": "Hai condiviso il tuo primo kudos."
         },
         "gave-10-kudos": {
             "title": "10 Kudos inviati",
@@ -188,6 +189,26 @@
         "nuked": {
             "title": "Produzione distrutta",
             "description": "Nessuno vuole davvero questo distintivo. Ma è davvero fantastico."
+        },
+        "riscv": {
+            "title": "openSUSE RISC-V",
+            "description": "Per contributi a openSUSE su RISC-V"
+        },
+        "release": {
+            "title": "Team di rilascio",
+            "description": "Membro del team di rilascio openSUSE"
+        },
+        "election-official": {
+            "title": "Addetto alle elezioni",
+            "description": "Riconoscimento per il supporto alle elezioni del Board di openSUSE."
+        },
+        "opensuse-board": {
+            "title": "Membro del Board di openSUSE",
+            "description": "Riconoscimento per far parte del Board di openSUSE."
+        },
+        "if2026": {
+            "title": "installfest.cz 2026",
+            "description": "Per il supporto a Installfest.cz 2026."
         }
     },
     "kudos": {
@@ -200,7 +221,7 @@
         "from_user_placeholder": "Da utente…",
         "to_user_placeholder": "A utente…",
         "filter_button": "Filtra",
-        "no_kudos": "È tutto tranquillo nella Terra di Geeko… manda qualche Kudos!",
+        "no_kudos": "È tutto tranquillo nella Terra di Geeko… manda qualche kudos!",
         "load_more": "Carica altri Kudos"
     },
     "footer": {
@@ -215,12 +236,12 @@
         "category": "Categoria:",
         "general": "Generale",
         "sent_on": "Inviato il",
-        "share_moment": "✨ Condividi questo momento con gli altri:",
-        "copy_permalink": "📋 Copia permalink",
-        "print_view": "🖨️ Visualizzazione di stampa",
-        "permalink_copied": "✅ Permalink copiato!",
-        "back_to_kudos": "← Torna ai Kudos",
-        "failed_to_load": "💥 Impossibile caricare questo kudo.",
+        "share_moment": "Condividi questo momento con gli altri:",
+        "copy_permalink": "Copia permalink",
+        "print_view": "Condividi",
+        "permalink_copied": "Permalink copiato!",
+        "back_to_kudos": "Torna ai Kudos",
+        "failed_to_load": "Impossibile caricare questo kudo.",
         "unknown_date": "sconosciuto"
     },
     "kudo_print": {
@@ -228,15 +249,15 @@
         "certificate_title": "Certificato Kudos openSUSE",
         "certifies_that": "Si certifica che",
         "received_kudos_from": "ha ricevuto kudos da",
-        "category": "🏷️ Categoria:",
+        "category": "Categoria:",
         "general_category": "Generale",
-        "sent_on": "📅 Inviato il",
-        "footer_title": "💚 Kudos openSUSE",
-        "copy_share_link": "📋 Copia link di condivisione",
-        "share_on_linkedin": "💼 Condividi su LinkedIn",
-        "share_on_mastodon": "🐘 Condividi su Mastodon",
-        "copy_link_alert": "✅ Link di condivisione copiato negli appunti!",
-        "share_text": "{fromUser} ha inviato kudos a {toUser}! 💚 {message}",
+        "sent_on": "Inviato il",
+        "footer_title": "Kudos openSUSE",
+        "copy_share_link": "Copia link di condivisione",
+        "share_on_linkedin": "Condividi su LinkedIn",
+        "share_on_mastodon": "Condividi su Mastodon",
+        "copy_link_alert": "  Link di condivisione copiato negli appunti!",
+        "share_text": "{fromUser} ha inviato kudos a {toUser}! {message}",
         "copied_to_clipboard": "Copiato negli appunti!"
     },
     "user_profile": {
@@ -254,7 +275,9 @@
         "no_followers": "Nessun follower per ora.",
         "stats_received": "ricevuti",
         "stats_given": "dati",
-        "stats_badges": "distintivi"
+        "stats_badges": "distintivi",
+        "user_not_found_title": "Utente non trovato",
+        "user_not_found_message": "sembra non esistere."
     },
     "kudo_create": {
         "title": "Dai Kudos",
