@@ -242,7 +242,8 @@
         "permalink_copied": "Trvalý odkaz skopírovaný!",
         "back_to_kudos": "Späť na Kudos",
         "failed_to_load": "Nepodarilo sa načítať toto kudo.",
-        "unknown_date": "neznámy"
+        "unknown_date": "neznámy",
+        "group_sender_intro": "rozpoznané"
     },
     "kudo_print": {
         "watermark_alt": "openSUSE vodoznak",
@@ -292,6 +293,8 @@
         "alert_fill_all_fields": "Prosím, vyplňte všetky polia.",
         "alert_kudos_sent": "Kudos odoslané používateľovi {username}!",
         "alert_failed_to_send": "Nepodarilo sa odoslať kudos: {error}",
-        "alert_network_error": "Chyba siete: {message}"
+        "alert_network_error": "Chyba siete: {message}",
+        "add_button": "Pridať",
+        "alert_group_kudos_sent": "👥 Skupinové kudos odoslané: {recipients}!"
     }
 }
