@@ -237,7 +237,8 @@
         "permalink_copied": "恒久リンクをコピーしました！",
         "back_to_kudos": "賛辞一覧に戻る",
         "failed_to_load": "賛辞の読み込みに失敗しました。",
-        "unknown_date": "不明"
+        "unknown_date": "不明",
+        "group_sender_intro": "賞賛済み"
     },
     "kudo_print": {
         "watermark_alt": "openSUSE 透かし",
@@ -287,7 +288,9 @@
         "alert_fill_all_fields": "すべての項目を入力してください。",
         "alert_kudos_sent": "{username} に賛辞を送りました！",
         "alert_failed_to_send": "賛辞の送信に失敗しました: {error}",
-        "alert_network_error": "ネットワークエラー: {message}"
+        "alert_network_error": "ネットワークエラー: {message}",
+        "add_button": "追加",
+        "alert_group_kudos_sent": "👥 {recipients} グループに賛辞を送りました!"
     },
     "footer": {
         "source": "ソース",
