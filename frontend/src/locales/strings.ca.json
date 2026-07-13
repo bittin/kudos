@@ -1,25 +1,25 @@
 {
     "nav": {
         "home": "Inici",
-        "all_kudos": "Tot Kudos",
+        "all_kudos": "Tots els agraïments",
         "all_badges": "Totes les insígnies",
         "my_stuff": "Les meves coses",
         "admin": "Admin",
-        "give_kudos": "Kudos",
+        "give_kudos": "Agraïments",
         "logout": "Surt",
         "login": "Entra",
         "my_profile": "El meu perfil"
     },
     "home": {
         "recent_activity": "Activitat recent",
-        "latest_kudos": "Darrer Kudos",
+        "latest_kudos": "Darrer agraïment",
         "live_stream_hint": "Transmissió en directe disponible per a màquines a",
-        "no_kudos": "Hi ha silenci a Geeko Land... Envieu algues felicitacions!",
-        "view_all_kudos": "Mostra tots els Kudos",
+        "no_kudos": "Hi ha silenci a Geeko Land... Envieu alguns agraïments!",
+        "view_all_kudos": "Mostra tots els agraïments",
         "recent_badges": "Insígnies guanyades recentment",
         "badges_hint": "Insígnies guanyades pels col·laboradors d'openSUSE durant els darrers 30 dies.",
         "earned_by": "guanyat per",
-        "no_badges": "No has guanyat cap insígnia recentment; continua difonent felicitacions!",
+        "no_badges": "No has guanyat cap insígnia recentment; continua difonent agraïments!",
         "view_all_badges": "Mostra totes les insígnies",
         "top_geekos": "Els més reconeguts en els darrers 30 dies:"
     },
@@ -51,36 +51,36 @@
             "description": "Per contribucions a openSUSE a SYSTEM-Z"
         },
         "gave-1-kudos": {
-            "title": "Primera felicitació donada",
-            "description": "Heu compartit la primera felicitació."
+            "title": "Primer agraïment donat",
+            "description": "Heu compartit el primer agraïment."
         },
         "gave-10-kudos": {
-            "title": "10 Kudos atorgats",
-            "description": "10 Kudos compartits."
+            "title": "10 agraïments atorgats",
+            "description": "10 agraïments compartits."
         },
         "gave-100-kudos": {
-            "title": "100 Kudos donats",
-            "description": "100 Kudos compartits."
+            "title": "100 agraïments donats",
+            "description": "100 agraïments compartits."
         },
         "gave-1000-kudos": {
-            "title": "1000 Kudos donats",
-            "description": "1000 Kudos compartits."
+            "title": "1000 agraïments donats",
+            "description": "1000 agraïments compartits."
         },
         "got-1-kudos": {
-            "title": "Teniu la primera felicitació",
-            "description": "Heu rebut el primer Kudos."
+            "title": "Teniu el primer agraïment",
+            "description": "Heu rebut el primer agraïment."
         },
         "got-10-kudos": {
-            "title": "Teniu 10 Kudos",
-            "description": "Heu rebut 10 Kudos."
+            "title": "Teniu 10 agraïments",
+            "description": "Heu rebut 10 agraïments."
         },
         "got-100-kudos": {
-            "title": "Teniu 100 Kudos",
-            "description": "Heu rebut 100 Kudos."
+            "title": "Teniu 100 agraïments",
+            "description": "Heu rebut 100 agraïments."
         },
         "got-1000-kudos": {
-            "title": "Teniu 1000 Kudos",
-            "description": "Heu rebut 1000 Kudos."
+            "title": "Teniu 1000 agraïments",
+            "description": "Heu rebut 1000 agraïments."
         },
         "member": {
             "title": "Membre d'openSUSE",
@@ -212,9 +212,9 @@
         }
     },
     "kudos": {
-        "title": "Tots els Kudos",
+        "title": "Tots els agraïments",
         "subtitle": "Tots els agraïments que s'han compartit a la comunitat d'openSUSE: en directe, de tot cor i per sempre, Geeko.",
-        "new_kudos_banner": "Acaben d'arribar Kudos nous. Feu clic per actualitzar-los!",
+        "new_kudos_banner": "Acaben d'arribar agraïments nous. Feu clic per actualitzar-los!",
         "show_filters": "Mostra els filtres",
         "hide_filters": "Amaga els filtres",
         "all_categories": "Totes les categories",
@@ -222,11 +222,11 @@
         "to_user_placeholder": "Per a l'usuari…",
         "filter_button": "Filtre",
         "no_kudos": "Hi ha silenci a Geeko Land... Envieu alguns agraïments!",
-        "load_more": "Carrega més Kudos"
+        "load_more": "Carrega més agraïments"
     },
     "kudo_view": {
-        "loading": "Carregant Kudos..",
-        "recipient_intro": "creu que ets especial i t'ha enviat felicitacions!",
+        "loading": "Carregant agraïments...",
+        "recipient_intro": "creu que ets especial i t'ha enviat un agraïment!",
         "sender_intro": "ha enviat un agraïment a",
         "category": "Categoria:",
         "general": "General",
@@ -235,9 +235,10 @@
         "copy_permalink": "Copia l'enllaç permanent",
         "print_view": "Comparteix",
         "permalink_copied": "Enllaç permanent copiat!",
-        "back_to_kudos": "Torna a Kudos",
+        "back_to_kudos": "Torna als agraïments",
         "failed_to_load": "No s'ha pogut carregar aquest reconeixement.",
-        "unknown_date": "desconegut"
+        "unknown_date": "desconegut",
+        "group_sender_intro": "reconegut"
     },
     "kudo_print": {
         "watermark_alt": "Marca d'aigua d'openSUSE",
@@ -259,8 +260,8 @@
         "welcome_back": "Benvingut/da de nou, Geeko!",
         "following": "Seguint",
         "follow": "Segueix",
-        "kudos_received": "Kudos rebuts",
-        "no_kudos": "Encara no heu rebut cap Kudos. Sigueu el primer a apreciar aquest Geeko!",
+        "kudos_received": "Agraïments rebuts",
+        "no_kudos": "Encara no heu rebut cap agraïment. Sigueu el primer a apreciar aquest Geeko!",
         "badges_earned": "Insígnies obtingudes",
         "no_badges": "Encara no hi ha cap insígnia. Cada viatge comença amb una primera contribució!",
         "followship": "Seguiment",
@@ -275,19 +276,21 @@
         "user_not_found_message": "no sembla que existeixi."
     },
     "kudo_create": {
-        "title": "Doneu Kudos",
+        "title": "Doneu agraïments",
         "to_label": "Per a:",
         "to_placeholder": "Comenceu a escriure un nom d'usuari...",
         "category_label": "Categoria:",
         "category_placeholder": "Seleccioneu una categoria...",
         "message_label": "Missatge:",
         "message_placeholder": "Escriviu un missatge breu d'agraïment...",
-        "send_button": "Envia Kudos",
+        "send_button": "Envia agraïments",
         "cancel_button": "Cancel·la",
         "alert_fill_all_fields": "Si us plau, ompliu tots els camps.",
         "alert_kudos_sent": "Agraïment enviat a {username}!",
-        "alert_failed_to_send": "No s'ha pogut enviar la felicitació: {error}",
-        "alert_network_error": "Error de xarxa: {missatge}"
+        "alert_failed_to_send": "No s'ha pogut enviar l'agraïment: {error}",
+        "alert_network_error": "Error de xarxa: {missatge}",
+        "add_button": "Afegeix",
+        "alert_group_kudos_sent": "👥 Agraïments de grup enviats a: {recipients}!"
     },
     "footer": {
         "source": "Font",
